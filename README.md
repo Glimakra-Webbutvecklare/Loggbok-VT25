@@ -21,7 +21,7 @@ Virtualisering
 
 Berätta om dina intryck om första veckan i den här modulen. Återge kort hur du upplevt hur de olika lektionerna varit (75-100 ord).
 
-Reflektera över virtualisering. Leta upp en nyhet (artikel, blogg ect) senast året som på något sätt handlar om virtualisering. Återge med egna ord nyheten (75-100 ord).
+Reflektera över virtualisering. Leta upp en nyhet (artikel, blogg ect) senast året som på något sätt handlar om virtualisering. Återge med egna ord nyheten (75-100 ord). Ange en eller flera källor - inte AI...
 
 #### Vecka 10
 Hosting
