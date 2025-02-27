@@ -13,6 +13,7 @@ Skriv loggen i markdown kod (en eller flera filer med filtypen md), ex README.md
 
 Det viktiga är ATT du skriver än att du skriver mycket text. Följande frågor 
 ska ligga till grund för vad du skriver i loggen för aktuell vecka : 
+
 --- 
 
 #### Vecka 9
