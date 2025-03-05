@@ -17,18 +17,18 @@ ska ligga till grund för vad du skriver i loggen för aktuell vecka :
 --- 
 
 #### Vecka 9
-Virtualisering
+
+*Virtualisering*
 
 Berätta om dina intryck om första veckan i den här modulen. Återge kort hur du upplevt hur de olika lektionerna varit (75-100 ord).
 
 Reflektera över virtualisering. Leta upp en nyhet (artikel, blogg ect) senast året som på något sätt handlar om virtualisering. Återge med egna ord nyheten (75-100 ord). Ange en eller flera källor - inte AI...
 
 #### Vecka 10
-Hosting
 
-Sök på nätet efter webhotell som erbjuder möjligheten att köpa en domän och publicera en webbplats. Återge kort om två olika webhotell som du tycker verkar mest intressanta - beskriv varför (75-100 ord).
+*Hosting*
 
-Reflektera över hosting - tjänster som finns för att ...
+Sök på nätet efter webbhotell som erbjuder möjligheten att köpa en domän och publicera en webbplats. Välj ut ett webhotell som du tycker verkar bra. Berätta varför du tycker det är bra - jämför gärna med annat webhotell (75-100 ord).
 
 #### Vecka 11
 Wordpress, grupparbete
