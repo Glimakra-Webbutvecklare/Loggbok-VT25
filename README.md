@@ -26,6 +26,10 @@ Reflektera över virtualisering. Leta upp en nyhet (artikel, blogg ect) senast �
 #### Vecka 10
 Hosting
 
+Sök på nätet efter webhotell som erbjuder möjligheten att köpa en domän och publicera en webbplats. Återge kort om två olika webhotell som du tycker verkar mest intressanta - beskriv varför (75-100 ord).
+
+Reflektera över hosting - tjänster som finns för att ...
+
 #### Vecka 11
 Wordpress, grupparbete
 
