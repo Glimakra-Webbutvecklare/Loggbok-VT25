@@ -33,8 +33,20 @@ Sök på nätet efter webbhotell som erbjuder möjligheten att köpa en domän o
 #### Vecka 11
 Wordpress, grupparbete
 
+1. Berätta kort om hur det gick att starta upp grupparbetet.  
+2. Berätta kort vad du ska göra de närmsta dagarna (kan ex handla om din roll i gruppen, ett ansvarsområde som du har etc). 
+3. Berätta kort hur det fungerar i projektet (kan ex vara att det går planenligt, att det saknas ngt för att arbeta med projektet, hur samarbetet går etc). 
+
+Sammanlagt ca 75 - 100 ord
+
 #### Vecka 12
 Wordpress, grupparbete
+
+1. Berätta kort om vad du gjort sedan förra loggen. 
+2. Berätta kort vad du ska göra de närmsta dagarna (kan ex handla om din roll i gruppen, ett ansvarsområde som du har etc). 
+3. Berätta kort hur det fungerar i projektet (kan ex vara att det går planenligt, att det saknas ngt för att arbeta med projektet, hur samarbetet går etc). 
+
+Sammanlagt ca 75 - 100 ord
 
 #### Vecka 13
 Grupparbete, redovisning av olika projekt
