@@ -49,6 +49,10 @@ Wordpress, grupparbete
 Sammanlagt ca 75 - 100 ord
 
 #### Vecka 13
-Grupparbete, redovisning av olika projekt
-Föreläsningar
+Wordpress, grupparbete 
 
+1. Berätta kort om hur du tycker er redovisning av grupparbetet gick 
+2. Nämn något som du tycker fungerade bra i den gruppen du var med i 
+3. Nämn något som du tycker fungerade mindre bra i den gruppen du var med i 
+
+Sammanlagt 100 – 200 ord 
